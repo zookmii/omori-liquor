@@ -1,0 +1,2 @@
+# omori-liquor
+wordpress用
